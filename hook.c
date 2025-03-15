@@ -1,7 +1,7 @@
 /**
  * Date : 15/03/2025 03:41 AM
  * Author : @TF
- * Description : Malicious Shared Library Hooking read() Functions.
+ * Description : Malicious Shared Library Hooking `read` Function.
  */
 
 #define _GNU_SOURCE
