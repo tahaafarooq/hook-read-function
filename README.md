@@ -1,5 +1,5 @@
 # hook-read-function
-Malicious shared library that will hook into the `read` function within bash and logs the inputs after it's preloaded with **LD_PRELOAD**.
+Shared library that will hook into the `read` function within bash and logs the inputs after it's preloaded with **LD_PRELOAD**.
 
 **❗ Usage of this program under an unauthorized context is strictly forbidden. The author(s) of read-func-hook do not take any responsibility for any harm caused to systems. Use with caution. ❗**
 
